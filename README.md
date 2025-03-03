@@ -1,4 +1,5 @@
-# Hi there, I'm Shjoon ![](https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif?cid=790b7611nfz7doppf9aw708k140x9qf1cj221lzwwb7qrgua&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+# Hi there, I'm Shjoon
+![](https://media.giphy.com/media/5NdylreDFky6voGDV1/giphy.gif?cid=ecf05e47cvxtdcexprm982k286mo821z97dtk8yq2knkrqhi&ep=v1_stickers_search&rid=giphy.gif&ct=s)
 ### 🔧 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
