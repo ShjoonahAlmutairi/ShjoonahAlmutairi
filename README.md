@@ -1,6 +1,6 @@
 # Hi there, I'm Shjoon 👋
 ### about me
-undergraduate Information Technology student at KAU specializing in software engineering and database management, with a strong passion for network security and cybersecurity.
+Information Technology fresh graduate from KAU specializing in software engineering and database management, with a strong passion for network security and cybersecurity.
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
